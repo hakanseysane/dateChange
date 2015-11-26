@@ -10,6 +10,11 @@ date = "/Date(1448372863827)/";
 $.dateChange(Settings, data[i].date)
 ```
 
+
+## prerequisite
+jquery.timeago.js
+
+
 ### Settings
 ```
  viewtype: "datetime", // otherwise "timeago"
@@ -31,5 +36,3 @@ $.dateChange(Settings, data[i].date)
             ,
             monthNames: ["Ocak", "Şubat", "Mart", "Nisan", "Mayıs", "Haziran", "Temmuz", "Ağustos", "Eylül", "Ekim", "Kasım", "Aralık"]
             ```
-## prerequisite
-jquery.timeago.js
